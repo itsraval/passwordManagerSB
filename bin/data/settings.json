@@ -1,0 +1,14 @@
+{
+	"graphics":{
+		"bgColor":"#101010",
+		"iconColor":"#828282",
+		"removeColor":"yellow",
+		"font":"Helvetica",
+		"fontColor":"#e9e9e9"
+	},
+	"security":{
+		"encryptionMethodUsed":"aes-gcm",
+		"encryptionMethods": ["aes-gcm", "aes-cbc"],
+		"logOutTimer":120
+	}
+}

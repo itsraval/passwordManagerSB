@@ -1,0 +1,19 @@
+{
+  "options": [
+    {
+      "name": "Settings",
+      "alias": ["stg"],
+      "img": "icons/settings.png"
+    },
+    {
+      "name": "New Account",
+      "alias": ["nacc", "nwac", "add account", "adda"],
+      "img": "icons/new_account.png"
+    },
+    {
+      "name": "Password Generator",
+      "alias": ["pswg", "psw generator"],
+      "img": "icons/psw_generator.png"
+    }
+  ]
+}

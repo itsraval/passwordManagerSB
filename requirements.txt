@@ -1,0 +1,6 @@
+# Python 3.9
+# Libraries
+Pillow>=8.2.0
+pyperclip>=1.8.2
+passlib>=1.7.4
+pycryptodome>=3.14.1
