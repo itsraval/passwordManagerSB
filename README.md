@@ -8,6 +8,7 @@
 - AES-CBC is also avaible.
 
 ## Execution
+Execute the ```Password Manager.exe``` file or add a shortcut to the startup folder.
 ``` Alt Gr + P ``` To open the SearchBar
 
 ## TO DO
