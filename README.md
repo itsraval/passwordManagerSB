@@ -9,7 +9,10 @@
 
 ## Execution
 Execute the ```Password Manager.exe``` file or add a shortcut to the startup folder.
-``` Alt Gr + P ``` To open the SearchBar
+
+Press ``` Alt Gr + P ``` to open the SearchBar.
+
+If you want to use another macro key just need to rewrite the ```Password Manager.ahk``` file e transfor it to executable.
 
 ## TO DO
 - add account
