@@ -1,4 +1,5 @@
 <img align="right" src="https://github.com/itsraval/passwordManagerSB/blob/main/bin/icons/favicon.png" width="200" height="200">
+
 # Local Password Manager
 
 ## Security
