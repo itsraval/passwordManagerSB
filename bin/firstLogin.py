@@ -1,7 +1,3 @@
-# graphic interface
-# input box for password
-# generate json with password and format
-# check if the json file already exists -> if so display msg file already exits
 import myCipher
 import jsonFunctions
 from searchbar import SearchBar

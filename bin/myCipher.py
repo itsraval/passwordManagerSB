@@ -39,7 +39,6 @@ def encryptAES_GCM(string, key):
 def decryptAES_GCM(string, key):
 	key = hashlib.sha256(key.encode()).digest()
 	s = string.split("$")
-	print(string)
 	cipher = b64decode(s[-1])
 	authTag = b64decode(s[-2])
 	nonce = b64decode(s[-3])
